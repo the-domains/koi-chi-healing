@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Koi Chi Healing]]></title>
+        <description><![CDATA[Koi Chi Healing]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 19:47:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Koi Chi Healing</p>]]></description>
+            <link>undefined273cb985-6594-44bf-a516-eeb1982d2df3/index.html</link>
+            <guid isPermaLink="false">273cb985-6594-44bf-a516-eeb1982d2df3</guid>
+            <pubDate>Fri, 04 Mar 2016 19:46:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
